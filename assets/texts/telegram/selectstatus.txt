@@ -1,0 +1,4 @@
+Click one of the buttons below to select who the receiver and who the sender is. Make sure your choice is correct before clicking anything or sending any crypto. This choice is final.
+
+<b>{user1}</b> has selected <b>{vote1}</b>
+<b>{user2}</b> has selected <b>{vote2}</b>

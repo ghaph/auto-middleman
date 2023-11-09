@@ -1,0 +1,2 @@
+<b><u>SUCCESS</u></b>
+The payment has been received by the bot and confirmed on the blockchain. {receiver} can now provide their product or service. A panel will be posted below which will allow you to agree on the outcome of the transaction.

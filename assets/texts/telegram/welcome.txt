@@ -1,0 +1,11 @@
+<b><u>Welcome</b></u>
+Your ticket has been created. Please invite the other user to this group by sending them this link: {link}
+
+You can invite up to 10 people to the ticket, but only the first person that joins will have the authority to vote on decisions. If no user joins within 24 hours or you leave the group, this ticket will be automatically closed.
+
+{bot} will be the bot handling this ticket. Any other account sending payment details is an impersonator
+
+<b>Ticket Command List</b>
+<u>/close</u> - Closes the ticket. If payment details have been sent, both users have to type this command to close the ticket
+<u>/staff</u> - Adds staff to the ticket. You can use this if any issues arise
+<u>/kick</u> - If both users agrees, kicks all extra people who joined and revokes the invite link

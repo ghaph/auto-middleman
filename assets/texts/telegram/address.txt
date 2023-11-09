@@ -1,0 +1,1 @@
+{user} Please send your <b>{crypto}</b> address to this channel. Make sure it's valid, the same address that you copied and make sure you don't send any extra text

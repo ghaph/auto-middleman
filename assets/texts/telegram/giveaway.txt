@@ -1,0 +1,10 @@
+<b><u>New Giveaway!</b></u>
+{winners}
+
+<b>Conditions</b>
+[!] Must be a member of @{telegram}
+
+<b>Entrants:</b> {entrants}
+<b>Ends in</b> {hours}
+
+To enter, press on the button below. Make sure 

@@ -1,0 +1,4 @@
+<b><u>DM Command List</u></b>
+/create - Creates a ticket and sends you a link to join
+/stats - Shows you your global stats
+/link - Allows you to link & merge your Discord stats 

@@ -1,0 +1,10 @@
+<b>Amount USD:</b> ${usd}
+<b>Fee USD:</b> ${feeUsd}
+<b>Total:</b> ${totalUsd}
+
+Please send exactly <code>{amount}</code> <b>{crypto}</b> to the address below
+<code>{address}</code>
+
+You need to cover network fees.
+
+Once payment has been received & confirmed the receiver will automatically get notified in this group. You have 48 hours to send the payment before this group gets closed. After payment has been received you have unlimited time to complete the deal

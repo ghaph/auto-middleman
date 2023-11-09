@@ -1,0 +1,5 @@
+<b>Selected Crypto:</b> {crypto}
+<b>Amount USD:</b> ${value}
+<b>Fee USD:</b> ${fee}
+<b>Total USD:</b> ${total}
+{user} You need to accept or deny this

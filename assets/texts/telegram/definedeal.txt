@@ -1,0 +1,3 @@
+The second user has joined. {user1} and {user2}
+
+Please state what the deal is. Summarise the deal in one message

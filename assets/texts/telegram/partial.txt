@@ -1,0 +1,5 @@
+<b><u>WARNING</b></u>
+A partial payment has been detected. Please make sure the bot's wallet receives exactly <code>{amount}</code> <b>{crypto}</b>.
+You need to send another transaction.
+
+You can view the balance <a href="{addressLink}">here</a>

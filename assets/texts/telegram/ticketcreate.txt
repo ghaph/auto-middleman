@@ -1,0 +1,4 @@
+Successfully created a ticket for you. Please join the group below and send the other user the same link:
+{link}
+
+You have 5 minutes to join and the other user has 24 hours to join before the ticket is deleted.

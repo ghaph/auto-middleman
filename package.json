@@ -1,0 +1,33 @@
+{
+	"name": "automiddleman",
+	"main": "src/index.ts",
+	"scripts": {
+		"start": "ts-node src/index.ts",
+		"payout": "ts-node src/payout.ts"
+	},
+	"devDependencies": {
+		"@types/bchaddrjs": "^0.4.0",
+		"@types/mongodb": "^4.0.7",
+		"@types/node-fetch": "^2.6.4",
+		"ts-node": "^10.9.1"
+	},
+	"dependencies": {
+		"@bitgo/utxo-lib": "^9.5.0",
+		"@sentry/node": "^7.66.0",
+		"@sentry/profiling-node": "^1.2.0",
+		"axios": "^1.4.0",
+		"bchaddrjs": "^0.5.2",
+		"bignumber.js": "^9.1.1",
+		"bip32": "^4.0.0",
+		"bip39": "^3.1.0",
+		"chalk": "^4.1.2",
+		"discord.js": "^14.12.1",
+		"ethers": "^5.6.2",
+		"immutable": "^4.3.2",
+		"mongodb": "^5.7.0",
+		"node-fetch": "^2.6.12",
+		"telegram": "^2.18.26",
+		"tiny-secp256k1": "^2.2.3",
+		"ton": "^13.5.0"
+	}
+}

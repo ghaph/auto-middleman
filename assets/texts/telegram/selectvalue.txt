@@ -1,0 +1,2 @@
+{user1} | {user2}
+Please enter the amount in USD excluding the fee (eg. <b>$50</b>)

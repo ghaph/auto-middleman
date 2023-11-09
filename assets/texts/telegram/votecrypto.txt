@@ -1,0 +1,4 @@
+Click one of the buttons below to select which crypto you want to use. Both users need to vote on the same crypto
+
+<b>{user1}</b> has selected <b>{vote1}</b>
+<b>{user2}</b> has selected <b>{vote2}</b>

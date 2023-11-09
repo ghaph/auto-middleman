@@ -1,0 +1,1 @@
+The payment has been successfully sent back to the sender. This middleman exchange has been marked as refunded.

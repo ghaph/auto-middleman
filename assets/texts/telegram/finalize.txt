@@ -1,0 +1,8 @@
+<b><u>FINALIZE</u></b>
+Once both parties have agreed to the same transaction result the user will be asked for their address and the funds will be withdrawn automatically.
+
+<u>Only click a button when you are 100% sure of your choice. This cannot be reversed.</u>
+
+<b>Selections</b>
+{user1} <b>-</b> {vote1}
+{user2} <b>-</b> {vote2}
